@@ -7,7 +7,7 @@ Este sitio web está diseñado para mostrar una receta, en este caso cómo prepa
 **v1.0**
 
 ## 📸 Imagen del proyecto
-![Vista previa del proyecto Modo Claro](https://github.com/CarlosRW/San-Valentin/blob/main/img/imgSVClaro.png?raw=true)
+![Vista previa del proyecto Modo Claro](imagen-pagina-pasta-carbonara)
 -
 ## 🚀 Características Principales
 - **Video de su preparación:** Un video de YouTube de como se prepara la pasta carbonara.
